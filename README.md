@@ -22,6 +22,12 @@
 
 ---
 
+## Now Playing
+
+[![Now Playing](https://cast.architectural-n.net/data/nowplaying.svg)](https://cast.architectural-n.net/)
+
+---
+
 ## Featured Projects
 
 | Project | What it is | Links |
